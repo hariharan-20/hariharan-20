@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/hari--haran/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[k.hariharan.0520@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTGmXcSgRTjLttbvZRpdnRVslJfWvWQJRqtPJMDSKmVhFSphWSLhsGKTfKmkGWMhkfsNJB)" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTGmXcSgRTjLttbvZRpdnRVslJfWvWQJRqtPJMDSKmVhFSphWSLhsGKTfKmkGWMhkfsNJB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
