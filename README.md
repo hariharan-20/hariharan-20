@@ -10,11 +10,15 @@
 
 ###
 
+* 🔭 Here's my [portfolio](https://main--iamhariharan.netlify.app/)                                                 
+* 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />](https://twitter.com/iambharathpadhu) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/hari--haran/)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/hari--haran/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJTGmXcSgRTjLttbvZRpdnRVslJfWvWQJRqtPJMDSKmVhFSphWSLhsGKTfKmkGWMhkfsNJB" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwfTBVHhNpfzmfZznlvkfHpSTFdgqpVDgqpjTqXNCjkMQdlHHpPGcJjLbCJrWbQxmtJjfl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
