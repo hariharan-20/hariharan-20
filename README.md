@@ -10,7 +10,7 @@
 
 ###
 
-* 🔭 Here's my [portfolio](https://main--iamhariharan.netlify.app/) 
+🔭 Here's my [portfolio](https://main--iamhariharan.netlify.app/) 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hari--haran/" target="_blank">
