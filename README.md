@@ -3,7 +3,6 @@
 ###
 
 <h3 align="left">Product Developer @Lumel</h3>
-<h5 align="left">Crafting digital experiences with passion and precision !</h5>
 
 ###
 
